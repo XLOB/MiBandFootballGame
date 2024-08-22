@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(168,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(173,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(224,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(229,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(288,56): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(288,49): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(288,42): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(290,56): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(290,49): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(290,42): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(294,56): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(294,49): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(294,42): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(358,31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(359,57): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(359,57): warning C4244:         with
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(359,57): warning C4244:         [
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(359,57): warning C4244:             T=float
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(359,57): warning C4244:         ]
+C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(48,37): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+      C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(48,37):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\XLOB\source\repos\MiBandFootBallGame\MiBandFootBallGame\main.cpp(420,25):
+          查看对正在编译的函数 模板 实例化“float angleCalculate<T,T>(const T1 &,const T2 &)”的引用
+          with
+          [
+              T=float,
+              T1=float,
+              T2=float
+          ]
+  
+  MiBandFootBallGame.vcxproj -> C:\Users\XLOB\source\repos\MiBandFootBallGame\x64\Debug\MiBandFootballGame.exe
